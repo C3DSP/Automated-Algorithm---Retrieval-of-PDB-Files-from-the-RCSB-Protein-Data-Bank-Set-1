@@ -1,3 +1,3 @@
-This repository (Set 1) contained extracted PDB files related to RNA-protein complexes, retrieved from RCSB PDB website. 
+This Set 1 repository contained extracted PDB files related to RNA-protein complexes, retrieved from RCSB PDB website. 
 These extracted PDB files of RNA-protein complexes were used in our Automated Algorithm for the classification of structural pattern of RNA-protein interactions.
-The total of extracted PDB files in this repository (Set 1) is 925.
+The total of extracted PDB files in this Set 1 repository is 925.
